@@ -1,6 +1,6 @@
 # Netflix Clone Website 🎬🍿 | Money Heist Theme
 
-This is a **Netflix Clone Website** inspired by the popular series **Money Heist (La Casa de Papel)**. It was developed using **HTML**, **CSS**, and some basic **JavaScript** events. This project is purely for educational and UI practice purposes — no actual streaming is supported.
+This is a **Netflix Clone Website** inspired by the popular series **Money Heist**. It was developed using **HTML**, **CSS**, and some basic **JavaScript** events. This project is purely for educational and UI practice purposes — no actual streaming is supported.
 
 --->>
 
