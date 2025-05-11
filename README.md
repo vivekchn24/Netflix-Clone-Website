@@ -40,7 +40,7 @@ The goal of this project was to recreate the look and feel of Netflix's homepage
 
 ## 🖼️ Screenshots
 
--Download the attached file and open it in your browser
+- Download the attached file and open it in your browser
 
 --->>
 
